@@ -1,0 +1,2 @@
+# sentenceClusteringMST
+run main.py
